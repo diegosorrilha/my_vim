@@ -1,0 +1,4 @@
+# backup and log files and compiled sources
+*.bak
+*.*~
+*.swp
